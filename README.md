@@ -13,6 +13,9 @@
  <div align="center">
   <img width=60% src="http://github-readme-streak-stats.herokuapp.com?user=alfidh02&theme=buefy">
 </div>
+  
+  
+![snake gif](https://github.com/alfidh02/alfidh02/blob/output/github-contribution-grid-snake.gif)
  
  <div align="center">
   <br>
