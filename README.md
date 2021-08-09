@@ -5,7 +5,7 @@
 - 💻 I've been working on several projects including Web Dev. & Mobile Dev
 - 🌱 I'm currently learning Vue, Laravel and AI
 - 👀 Seeking and open to any possible intern/job opportunities in Web Dev./Mobile Dev
-<br/><br/>
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alfidh02&show_icons=true&theme=default"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfidh02&layout=compact&langs_count=20&theme=vue"/>
