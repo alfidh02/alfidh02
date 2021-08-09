@@ -3,7 +3,7 @@
 <!--  [![alfi-linkedin][linkedin-shield]][alfi-linkedin-url] -->
 - 👨‍💻 I'm an Android and Website Developer from Indonesia 
 - 💻 I've been working on several projects including Web Dev. & Mobile Dev
-- 🌱 I'm currently learning Vue, Laravel and AI
+- 🌱 I'm currently deep study on Android Architecture (MVVM, Clean Architecture) and Design Pattern, also few of Website Fundamental
 - 👀 Seeking and open to any possible intern/job opportunities in Web Dev./Mobile Dev
 
 <div align="center">
