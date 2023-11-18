@@ -8,7 +8,6 @@
   ![snake gif](https://github.com/alfidh02/alfidh02/blob/output/github-contribution-grid-snake.gif)
  
  <div align="center">
-  <br>
  You can reach me here:<br><br>
   <a href="https://www.linkedin.com/in/alfi-dharmawan/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
