@@ -5,11 +5,7 @@
 - 💻 I've been working on several projects including Web Dev. & Mobile Dev
 - 🌱 Currently deep study on Android Architecture (MVVM, Clean Architecture) and Design Pattern, also few of Website Fundamental
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alfidh02&show_icons=true&theme=default"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfidh02&layout=compact&langs_count=20&theme=vue"/>
-  
-![snake gif](https://github.com/alfidh02/alfidh02/blob/output/github-contribution-grid-snake.gif)
+  ![snake gif](https://github.com/alfidh02/alfidh02/blob/output/github-contribution-grid-snake.gif)
  
  <div align="center">
   <br>
@@ -23,3 +19,6 @@
  <a href="https://twitter.com/alfi_dharmawan" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2?&style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
+<br> <br>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfidh02&layout=compact&langs_count=20&theme=vue"/>
