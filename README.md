@@ -6,7 +6,8 @@
 - 🌱 Currently deep study on Android Architecture (MVVM, Clean Architecture) and Design Pattern, also few of Website Fundamental
 
   ![snake gif](https://github.com/alfidh02/alfidh02/blob/output/github-contribution-grid-snake.gif)
- 
+
+ <!--
  <div align="center">
  You can reach me here:<br><br>
   <a href="https://www.linkedin.com/in/alfi-dharmawan/" style="text-decoration: none;">
@@ -21,3 +22,4 @@
 <br> <br>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfidh02&layout=compact&langs_count=20&theme=vue"/>
+  -->
