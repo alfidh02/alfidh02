@@ -1,4 +1,4 @@
-# Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello there! <img src="https://raw.githubusercontent.com/faiq-naufal/faiq-naufal/main/assets/cat-wave.gif" width="40px">
 
 <!--  [![alfi-linkedin][linkedin-shield]][alfi-linkedin-url] -->
 - 👨‍💻 I'm an Android and Website Developer from Indonesia 
