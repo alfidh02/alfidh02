@@ -3,8 +3,7 @@
 <!--  [![alfi-linkedin][linkedin-shield]][alfi-linkedin-url] -->
 - 👨‍💻 I'm an Android and Website Developer from Indonesia 
 - 💻 I've been working on several projects including Web Dev. & Mobile Dev
-- 🌱 Currently deep study on Android Architecture (MVVM, Clean Architecture) and Design Pattern, also few of Website Fundamental
-
+- 🌱 Currently deep study on Android Architecture & Design Pattern
   ![snake gif](https://github.com/alfidh02/alfidh02/blob/output/github-contribution-grid-snake.gif)
 
  <!--
